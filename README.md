@@ -10,7 +10,7 @@
   </code>
   <code>
     <a href="https://stackoverflow.com/users/10347054/desancheztorres" title="Stack Overflow Profile">
-    <img width="22" src="https://github.com/zdesancheztorres/desancheztorres/blob/main/images/stackoverflow.svg"> Stack Overflow</a>
+    <img width="22" src="https://github.com/desancheztorres/desancheztorres/blob/main/images/stackoverflow.svg"> Stack Overflow</a>
   </code>
 </h5>
 <br>
