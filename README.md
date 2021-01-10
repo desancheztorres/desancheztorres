@@ -1,15 +1,15 @@
 <h3 align="center">Hello there, I'm Cristian 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/desancheztorres/" title="LinkedIn Profile">
+    <a href="https://www.linkedin.com/in/desancheztorres/" title="LinkedIn Profile" target="_blank">
     <img width="22" src="https://github.com/desancheztorres/desancheztorres/blob/main/images/linkedin.svg"> LinkedIn</a>
   </code>
   <code>
-    <a href="https://www.hackerrank.com/desancheztorres" title="HackerRank Profile">
+    <a href="https://www.hackerrank.com/desancheztorres" title="HackerRank Profile" target="_blank">
     <img width="22" src="https://github.com/desancheztorres/desancheztorres/blob/main/images/hackerrank.png"> HackerRank</a>
   </code>
   <code>
-    <a href="https://stackoverflow.com/users/10347054/desancheztorres" title="Stack Overflow Profile">
+    <a href="https://stackoverflow.com/users/10347054/desancheztorres" title="Stack Overflow Profile" target="_blank">
     <img width="22" src="https://github.com/desancheztorres/desancheztorres/blob/main/images/stackoverflow.svg"> Stack Overflow</a>
   </code>
 </h5>
